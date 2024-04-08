@@ -34,6 +34,7 @@ To utilize the "Geometric Transformers" project, follow these steps:
 ## References
 [1] An Attitude Control Method of Aircraft Based on Neural Network Batch Training Strategy (https://ieeexplore.ieee.org/document/9327655)
 
+
 [2] (https://www.mdpi.com/2313-7673/8/5/434)
 
 
