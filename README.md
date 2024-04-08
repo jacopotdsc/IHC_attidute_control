@@ -35,6 +35,7 @@ To utilize the "Geometric Transformers" project, follow these steps:
 [1] An Attitude Control Method of Aircraft Based on Neural Network Batch Training Strategy (https://ieeexplore.ieee.org/document/9327655)
 
 
-[2] (https://www.mdpi.com/2313-7673/8/5/434)
+[2] Adaptive PI Controller Based on a Reinforcement Learning
+Algorithm for Speed Control of a DC Motor (https://www.mdpi.com/2313-7673/8/5/434)
 
 
