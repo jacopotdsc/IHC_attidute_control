@@ -21,12 +21,12 @@ The development of the the code follows these key steps:
 
 ## Usage
 
-To utilize the "Geometric Transformers" project, follow these steps:
+To utilize the "Attidute Controll" project, follow these steps:
 
 1. **Install Dependencies**: 
     - Ensure all required dependencies are installed. 
-    - Matlab engine can be installed following the documentation avaible on matlab's website (https://it.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). 
-    - If doesn't work, you still need one more passage. Create an environment variable PYTHONPATH with value 'path_to_setupd.py'.
+    - Matlab engine can be installed following the documentation avaible on matlab's website (https://it.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). Ensure to use 'python setup.py install'
+    - If doesn't work, you still need one more passage. Create an environment variable PYTHONPATH with value 'path_to_setup.py'.
 
 2. **Set hyperparameters**: Set hyperparameters in the code in order to automatize everything
 
